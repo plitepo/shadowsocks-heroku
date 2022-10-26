@@ -1,10 +1,10 @@
 {
-  "server": "127.0.0.1",
-  "local_address": "127.0.0.1",
+  "server": "chh65g7.herokuapp.com",
+  "local_address": "0.0.0.0",
   "scheme": "ws",
   "local_port": 1080,
-  "remote_port": 8080,
-  "password": "`try*(^^$some^$%^complex>:<>?~password/",
-  "timeout": 600,
+  "remote_port": 80,
+  "password": "5f9ede335d429a166",
+  "timeout": 6000,
   "method": "rc4-md5"
 }
